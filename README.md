@@ -1,6 +1,6 @@
-#################################################### <br>
+############################################ <br>
 ##########&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meetup Publisher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;########## <br>
-#################################################### <br>
+############################################ <br>
 
 Q and A's
 1. What is Meetup Publisher?
