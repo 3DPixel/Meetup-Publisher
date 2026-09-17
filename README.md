@@ -1,65 +1,229 @@
-############################################ <br>
-##########&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meetup Publisher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;########## <br>
-############################################ <br>
+# Meetup Publisher
 
-Q and A's
-1. What is Meetup Publisher?
-2. Is this free?
-3. What browser does this work on?
-4. How does I get it to work?
-5. How do I set and save the groups I'm in?
-6. How do I use the plugin?
-7. What the plugin DOESN'T do!
+**Meetup Publisher** is a browser extension that makes it easier to create the same Meetup event across multiple groups.
 
+If you manage several Meetup groups and regularly need to post the same event to each one, this extension takes care of most of the repetitive work — while still leaving you in control of the final publishing process.
 
-Q: What is Meetup Publisher?
-A: I run several groups on Meetup and I usually post single events into multiple groups.
-This is rather tedious and time consuming so I built this which takes out most of the leg-work.
-I didn't want a fully automated solution as I like to check over things before publishing it - spellcheck and formatting and all that.
+> **Important:** Meetup Publisher creates event **drafts** for you. It does **not** automatically publish or announce events.
 
-YES YES I know there is meetup pro but I already spend a small fortune on running groups as it is and I'm somewhat reluctant to hand over even more money just for a single element of what Pro offers.
+---
 
-Q: Is this free?
-A: ABSOLUTELY!
-The plugin is free, there are no hidden costs, it runs ENTIRELY locally, no meetup fees - absolutely FREE!
-However, if you find this useful, a donation of the price of a cup of coffee would be immensely appreciated - after all Meetup Pro is costly, whereas the one-off price of a coffee is a BARGAIN right :D
+## 📖 Q&A
 
-Please buy me a coffee - https://buymeacoffee.com/3dpixel
+- [What is Meetup Publisher?](#-what-is-meetup-publisher)
+- [Is it free?](#-is-it-free)
+- [What browsers does it work on?](#-what-browsers-does-it-work-on)
+- [How do I install it?](#-how-do-i-install-it)
+- [How do I set and save my groups?](#-how-do-i-set-and-save-my-groups)
+- [How do I use the plugin?](#-how-do-i-use-the-plugin)
+- [What doesn't the plugin do?](#-what-doesnt-the-plugin-do)
 
-Q: What browser does this work on?
-A: Brave, Chrome, Firefox
+---
 
-Q: How does I get it to work?
-A: Download the package
-1. Create a folder on your machine (My Documents or equivalent would be good)
-2. Unzip the contents of the zip file into that folder.
+## 🤔 What is Meetup Publisher?
 
-For Chrome/Brave browsers
-3.1 Click the 3 lines at the top and click 'Extensions' then 'Manage Extensions'
-3.2 Click the 'Developer Mode' toggle at the top
-3.3 Click 'Load Unpacked' button at the top
-3.4 Select the folder that you unzipped the file to in Step 2 above then click 'Select Folder' in the popup window.
+I run several groups on Meetup and regularly post the same event into multiple groups.
 
-For Firefox browser
-4.1
+Doing this manually is **tedious and time-consuming**, so I built Meetup Publisher to take out most of the leg-work.
 
-Q: How do I set and save the groups I'm in?
-A: You can save the groups you're admin in into the plugin so that you don't have to add it every time you want to post an event.
-To do this, you can either pin the plugin to the toolbar or click the relevant icon to expand your plugins from the toolbar.
+I deliberately **didn't want a fully automated solution**. I like being able to check everything before publishing — spelling, formatting, locations, settings, and all the other little details that are easy to miss.
 
-1. Click the plugin and scroll down to the bottom of the page then click 'Manage Groups'.
-2. In the box on the left, enter the friendly name for the group
-3. In the box on the right, go to the group you're admin in and copy the URL for the group E.G https://www.meetup.com/organiser-meetup-manchester (don't copy/paste anything after the group name)
-4. DON'T FORGET TO CLICK SAVE
+### "But what about Meetup Pro?"
 
-Q: How do I use the plugin?
-A: The user interface is pretty straight forward. It almost reflects what you'd see in the 'Create Event' part of the website but the difference is, it does most of the leg work so you don't have to!
-Once you've filled in all the information in the plugin, click 'Create Meetup Drafts'.
-A new window will open and start to fill in the details on the event page.
-You will still need to set a location and any of the other specific/finer details on the page before you publish it.
+Yes, yes... I know there is **Meetup Pro**. 😄
 
-Q: What DOESN'T the plugin do?
-A: The plugin absolutely does NOT automatically post and announce the event. I am NOT going to build this into the application so don't ask!
-You are fully responsible for what you post and it is ALWAYS good to have a quick glance over things before you hit the 'SEND' 'PUBLISH' 'POST' button on ANY website.
-Plus, as there are quite a lot of finer details and settings on the event page, it's really difficult to add all those settings into a single plugin without something going wrong.
+However, I already spend a small fortune running groups as it is, and I'm somewhat reluctant to hand over even more money for a single element of what Pro offers.
 
+So I built my own solution instead.
+
+---
+
+## 💰 Is it free?
+
+**ABSOLUTELY!**
+
+Meetup Publisher is:
+
+- 🆓 **Free to use**
+- 🔒 **Runs entirely locally**
+- 💳 **No hidden costs**
+- 🚫 **No Meetup fees**
+- ☁️ **No external service required**
+
+That said, if you find the plugin useful, a donation equivalent to the price of a cup of coffee would be **hugely appreciated**. ☕
+
+After all, Meetup Pro is costly, whereas the one-off price of a coffee is a **bargain**, right? 😁
+
+### ☕ Buy me a coffee
+
+If Meetup Publisher saves you some time, you can support the project here:
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/3dpixel)**
+
+Thank you! ❤️
+
+---
+
+## 🌐 What browsers does it work on?
+
+Meetup Publisher currently works with:
+
+- 🦁 **Brave**
+- 🌐 **Google Chrome**
+- 🦊 **Firefox**
+
+---
+
+## 🛠️ How do I install it?
+
+### 1. Download the package
+
+Download the Meetup Publisher package from this repository.
+
+### 2. Create a folder
+
+Create a folder somewhere convenient on your computer.
+
+For example:
+
+```text
+My Documents/Meetup Publisher/
+```
+
+### 3. Extract the files
+
+Unzip the contents of the downloaded ZIP file into the folder you created.
+
+---
+
+### 🟢 Chrome / Brave
+
+1. Open the browser menu.
+2. Go to **Extensions → Manage Extensions**.
+3. Turn on **Developer Mode**.
+4. Click **Load Unpacked**.
+5. Select the folder containing the extracted Meetup Publisher files.
+6. Click **Select Folder**.
+
+The extension should now appear in your list of installed extensions.
+
+> **Tip:** Pin Meetup Publisher to your browser toolbar so it's easy to access.
+
+---
+
+### 🦊 Firefox
+
+Firefox installation instructions are currently **TBC**.
+
+---
+
+## 👥 How do I set and save my groups?
+
+You can save the Meetup groups you're an administrator of inside the plugin.
+
+This means you only need to enter the group details **once**, rather than every time you want to create an event.
+
+### Adding a group
+
+1. Open the Meetup Publisher plugin.
+
+2. Scroll to the bottom of the page and click **Manage Groups**.
+
+3. In the box on the left, enter a **friendly name** for the group.
+
+   For example:
+
+   ```text
+   Manchester 3D Printing
+   ```
+
+4. In the box on the right, go to the Meetup group you're an admin of and copy the group's URL.
+
+   For example:
+
+   ```text
+   https://www.meetup.com/organiser-meetup-manchester
+   ```
+
+   > **Important:** Only copy the URL up to the group name. Don't include anything after the group name.
+
+5. Click **Save**.
+
+> ⚠️ **Don't forget to click SAVE!**
+
+Once saved, the group will be available for you to select whenever you create Meetup drafts.
+
+---
+
+## ✍️ How do I use the plugin?
+
+The user interface is designed to be pretty straightforward.
+
+It roughly mirrors what you'd see when using the **Create Event** section of the Meetup website, but Meetup Publisher does most of the repetitive work for you.
+
+### Creating your event drafts
+
+1. Open the Meetup Publisher plugin.
+2. Enter the event information.
+3. Select the Meetup groups you want to publish the event to.
+4. Double-check the information you've entered.
+5. Click **Create Meetup Drafts**.
+
+A new browser window will open and Meetup Publisher will begin filling in the event details on the Meetup event page.
+
+### Final checks
+
+You will still need to set the **location** and any other specific or finer details on the Meetup event page.
+
+Once everything looks correct, you can publish the event yourself.
+
+> **Remember:** The plugin is designed to save you time, not remove you from the publishing process.
+
+---
+
+## 🚫 What DOESN'T the plugin do?
+
+Meetup Publisher **does not automatically publish or announce events**.
+
+And I'm **not planning to add automatic publishing**, so please don't ask! 😄
+
+You remain fully responsible for what you post.
+
+I strongly believe it's always worth taking a quick look over something before hitting the **Send**, **Publish**, or **Post** button on *any* website.
+
+There are also quite a lot of finer details and settings available on a Meetup event page. Trying to reproduce every single one of those options inside a browser extension would make the plugin considerably more complicated — and potentially introduce things going wrong.
+
+### In short
+
+**Meetup Publisher:**
+
+- ✅ Creates Meetup event drafts
+- ✅ Helps you post the same event to multiple groups
+- ✅ Saves your groups for future use
+- ✅ Runs locally
+- ✅ Leaves you in control
+- ❌ Does not automatically publish events
+- ❌ Does not automatically announce events
+- ❌ Does not replace your final review
+
+---
+
+## ❤️ Support the Project
+
+If Meetup Publisher has saved you time or made managing your Meetup groups a little less painful, consider buying me a coffee:
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/3dpixel)**
+
+Every coffee is appreciated!
+
+---
+
+## 📌 Final Note
+
+Meetup Publisher was created to solve a simple problem:
+
+> **Posting the same event to multiple Meetup groups shouldn't mean doing the same work over and over again.**
+
+Hopefully it saves you some time too.
+
+Happy Meetup-ing! 🎉
